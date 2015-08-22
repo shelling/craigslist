@@ -1,0 +1,12 @@
+{
+  "name": "craigslist",
+  "description": "craigslist filter",
+  "version": "0.0.1",
+  "devDependencies": {
+    "webpack": "*",
+    "jsx-loader": "*",
+    "react": "*"
+  },
+  "dependencies": {
+  }
+}
