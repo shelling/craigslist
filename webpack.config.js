@@ -14,6 +14,10 @@ var config = module.exports = {
     publicPath: "/",
   },
 
+  externals: {
+    Parse: "Parse",
+  },
+
   resolve: {
     extensions: ["", ".js", ".jsx"],
     moduleDirectories: ["node_modules"],
