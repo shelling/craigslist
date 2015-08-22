@@ -1,5 +1,6 @@
 var Parse = require("Parse");
 var React = require("react/addons");
+var Post  = require("./post.jsx");
 
 Parse.initialize("rbxxqa1OqVDFrggjPndedyxSO3UzH6OETZ7ka4xp", "N7ZxmgK8dBCjfzUFoQnR9fOihO4dNopVZ08VyctS");
 
